@@ -37,4 +37,3 @@
  	}
 -}
 +}
-32 public/assets/style.css
