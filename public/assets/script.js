@@ -1,3 +1,4 @@
+@@ -4,9 +4,8 @@ angular.module('torrent-web-poc', ['ngMaterial', 'ngAnimate']);
  
  angular.module('torrent-web-poc').config(function($mdThemingProvider) {
  	$mdThemingProvider.theme('default')
