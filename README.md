@@ -2,7 +2,6 @@
 
 Stream and download a torrent through a plain http request :grin:
 
-[![](http://i.imgur.com/M2RgYYR.gif)]()
 
 Torrent Web is a self hosted server. It lets you direct download torrents with a simple web UI.
 
